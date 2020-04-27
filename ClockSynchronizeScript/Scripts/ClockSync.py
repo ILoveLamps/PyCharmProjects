@@ -1,3 +1,8 @@
+"""
+    Moves and clicks mouse pointer to open the date/time menu and sync the clock
+    -   Hirdayesh Shrestha
+"""
+
 from pynput.mouse import Button, Controller
 import time
 
