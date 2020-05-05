@@ -1,0 +1,6 @@
+"""
+    Selenium web automation ideas
+"""
+# # Dictionary.com Scraper: Fetches word of the day from dictionary.com along with other details
+# # Instagram Scraper: Fetch all the images belonging to a particular user on instagram and store them in directory
+# # Instagram: Check who isn't following you
